@@ -1,4 +1,4 @@
-.cover__background{
+.cover__background {
     margin: 0;
     position: relative;
     z-index: 1;
@@ -15,7 +15,7 @@
     align-self: center;
 }
 
-.cover__background::before{
+.cover__background::before {
     z-index: -1;
     position: absolute;
     content: " ";
@@ -26,34 +26,34 @@
     transition: .7s;
 }
 
-.cover__background:hover{
+.cover__background:hover {
     opacity: .8;
     transition: 1s;
 }
 
 @media screen and (max-width: 1279px) {
-    .cover__background { 
+    .cover__background {
         max-width: 1184px;
         min-height: 740px;
     }
 }
 
 @media screen and (max-width: 1024px) {
-    .cover__background { 
+    .cover__background {
         max-width: 1024px;
         min-height: 640px;
     }
 }
 
 @media screen and (max-width: 767px) {
-    .cover__background { 
+    .cover__background {
         max-width: 767px;
         min-height: 480px;
     }
 }
 
 @media screen and (max-width: 320px) {
-    .cover__background { 
+    .cover__background {
         max-width: 320px;
         min-height: 200px;
     }

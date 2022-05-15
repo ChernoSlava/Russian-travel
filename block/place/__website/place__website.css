@@ -1,4 +1,4 @@
-.place__website{
+.place__website {
     max-width: 456px;
     min-height: 46px;
     display: grid;
@@ -7,9 +7,9 @@
 }
 
 @media screen and (max-width: 320px) {
-    .place__website{
+    .place__website {
         padding-left: 16px;
         padding-right: 16px;
     }
-    
+
 }
