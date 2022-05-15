@@ -1,0 +1,11 @@
+.footer__copyright-link{
+    text-decoration: none;
+    color: white;
+    transition: opacity 0.5s linear  0s;
+}
+
+.footer__copyright-link:hover {
+  opacity: 10%;
+  
+}
+

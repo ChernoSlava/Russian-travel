@@ -9,8 +9,14 @@
     text-align: right;
     color: #fff;
     align-self: center;
-    
+    transition: opacity 0.5s linear 0s;
 }
+
+
+.header__lang-link:hover{
+    opacity: 30%;
+}
+
 
 .header__lang-link:last-child {
     
