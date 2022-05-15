@@ -1,4 +1,4 @@
-.place{
+.place {
     max-width: 100%;
     min-height: 660px;
     display: grid;
@@ -11,9 +11,9 @@
 
 
 @media screen and (max-width: 600px) {
-    .place{
+    .place {
         grid-template-columns: 1fr;
-       
+
     }
-    
+
 }
