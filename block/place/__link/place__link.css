@@ -11,5 +11,10 @@
 
     text-decoration-line: underline;
     color: white;
-    
+    transition: opacity 0.5s linear 0s;
+}
+
+
+.place__link:hover{
+    opacity: 30%;
 }
