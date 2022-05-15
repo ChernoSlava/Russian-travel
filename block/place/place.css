@@ -1,0 +1,19 @@
+.place{
+    max-width: 100%;
+    min-height: 660px;
+    display: grid;
+    grid-template-rows: 1fr 2fr;
+    grid-template-columns: 1fr 1fr;
+    align-items: flex-start;
+    padding-bottom: 80px;
+    column-gap: 40px;
+}
+
+
+@media screen and (max-width: 600px) {
+    .place{
+        grid-template-columns: 1fr;
+       
+    }
+    
+}
