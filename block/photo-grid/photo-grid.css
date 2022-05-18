@@ -13,6 +13,7 @@
 
 @media screen and (max-width: 1024px) {
     .photo-grid {
+        max-width: calc(100% - 48px * 2);
         grid-template-columns: repeat(3, 1fr);
         gap: 14px;
     }
@@ -20,6 +21,7 @@
 
 @media screen and (max-width: 767px) {
     .photo-grid {
+        max-width: calc(100% - 24px * 2);
         grid-template-columns: repeat(2, 1fr);
         gap: 16px;
     }
@@ -27,7 +29,7 @@
 
 @media screen and (max-width: 320px) {
     .photo-grid {
-        max-width: 100%;
+        max-width: calc(100% - 16px * 2);
         min-height: 2724px;
         grid-template-columns: 1fr;
         gap: 12px;

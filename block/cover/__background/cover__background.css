@@ -2,7 +2,7 @@
     margin: 0;
     position: relative;
     z-index: 1;
-    max-width: 1184px;
+    max-width: calc(100% - 48px * 2);
     min-height: 740px;
     background-image: url(../../../images/cover__background.jpg);
     background-size: cover;
