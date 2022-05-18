@@ -1,30 +1,26 @@
 .place__image {
-    max-width: 460px;
-    max-height: 460px;
+  max-width: 460px;
+  max-height: 460px;
 }
 
 @media screen and (max-width: 1024px) {
-    .place__image {
-        max-width: 440px;
-        min-height: 440px;
-    }
-
+  .place__image {
+    max-width: 440px;
+    min-height: 440px;
+  }
 }
 
 @media screen and (max-width: 768px) {
-    .place__image {
-        max-width: 340px;
-        min-height: 340px;
-        padding-bottom: 32px;
-    }
-
+  .place__image {
+    max-width: 340px;
+    min-height: 340px;
+    padding-bottom: 32px;
+  }
 }
 
-@media screen and (max-width: 320px) {
-    .place__image {
-        max-width: 320px;
-        min-height: 320px;
-        padding-bottom: 32px;
-    }
-
+@media screen and (max-width: 385px) {
+  .place__image {
+    max-width: 100%;
+    min-height: auto;
+  }
 }

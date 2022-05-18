@@ -1,15 +1,14 @@
-.footer__links{
-    display: grid;
-    
-    grid-template-columns: 50px 57px 94px 86px 106px 1fr;
-    column-gap: 18px;
+.footer__links {
+  display: grid;
+  grid-template-columns: 50px 57px 94px 86px 106px 1fr;
+  column-gap: 18px;
 }
 
-@media screen and (max-width: 500px) {
-    .footer__links {
-        padding-top: 64px;
-        padding-left: 16px;
-        grid-template-columns: 1fr;
-        row-gap: 32px;
-    }
+@media screen and (max-width: 700px) {
+  .footer__links {
+    padding-top: 64px;
+    padding-left: 16px;
+    grid-template-columns: 1fr;
+    row-gap: 32px;
+  }
 }
