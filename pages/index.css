@@ -38,6 +38,7 @@
 
 @import url(../block/footer/footer.css);
 @import url(../block/footer/__links/footer__links.css);
+@import url(../block/footer/__links/footer__linksRus.css);
 @import url(../block/footer/__link/footer__link.css);
 @import url(../block/footer/__copyright/footer__copyright.css);
 @import url(../block/footer/__copyright-link/footer__copyright-link.css);

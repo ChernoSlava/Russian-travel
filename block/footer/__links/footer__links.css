@@ -1,6 +1,6 @@
 .footer__links {
   display: grid;
-  grid-template-columns: 50px 57px 94px 86px 106px 1fr;
+  grid-template-columns: 35px 66px 73px 73px 60px 1fr;
   column-gap: 18px;
 }
 
@@ -12,3 +12,5 @@
     row-gap: 32px;
   }
 }
+
+

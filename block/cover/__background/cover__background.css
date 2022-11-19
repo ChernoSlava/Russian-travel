@@ -21,7 +21,7 @@
   content: " ";
   width: 100%;
   height: 100%;
-  background-color: black;
+  background-color: black; 
   opacity: 0.3;
   transition: 0.7s;
 }
@@ -29,6 +29,7 @@
 .cover__background:hover {
   opacity: 0.8;
   transition: 1s;
+  background-image: url(../../../images/header__logo.svg);
 }
 
 @media screen and (max-width: 1279px) {

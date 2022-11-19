@@ -1,8 +1,7 @@
 .footer__link {
   color: white;
   text-decoration: none;
-  padding-right: 18px;
-  min-width: 50px;
+  min-width: auto;
   min-height: 18px;
   font-family: "Inter";
   font-style: normal;
