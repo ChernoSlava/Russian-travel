@@ -1,5 +1,4 @@
 # Проект: Путешествие по России
------- 
 
 ## Описание проекта 
 
@@ -14,6 +13,50 @@
 - БЭМ;
 
 На этом проекте я учился применять grid и адаптировать сайт под разные устройства.
+
+------ 
+## Пердпросмотр
+
+<div>
+  <img 
+    src='./images/preview/1_Main.png' 
+    width="600px"
+  >
+</div>
+
+<div >
+  <img 
+    src='./images/preview/2_Main.png' 
+    width="600px"
+  >
+</div>
+
+<div >
+  <img 
+    src='./images/preview/3_Data.png' 
+    width="600px"
+  >
+</div>
+
+<div >
+  <img 
+    src='./images/preview/4_Data.png' 
+    width="600px"
+  >
+</div>
+<div>
+  <img 
+    src='./images/preview/5_Data.png' 
+    width="600px"
+  >
+</div>
+
+<div >
+  <img 
+    src='./images/preview/6_Adaptive.png' 
+    width="600px"
+  >
+</div>
 
 ------ 
 ## Установка и запуск:
