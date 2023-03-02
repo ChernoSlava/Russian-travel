@@ -61,7 +61,7 @@
 ------ 
 ## Установка и запуск:
 
-Чтобы запустить этот проект можно просто перейти по ссылке [GithubPage](http://chernoslava.github.io/russian-travel/)
+Чтобы запустить этот проект можно просто перейти по ссылке [GithubPage](https://chernoslava.github.io/Russian-travel/)
 
 Чтобы запустить локально нужно на локальном компьютере выполнить команду: 
 - `git clone https://github.com/ChernoSlava/russian-travel` - Для копирования проекта на локальный пк по https;
