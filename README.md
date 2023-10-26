@@ -61,10 +61,10 @@ On this project, I learned how to use grid and adapt the site to different devic
 ------
 ## Installation and launch:
 
-To launch this project, you can simply follow the link [GithubPage](http://chernoslava.github.io/russian-travel /)
+To launch this project, you can simply follow the link [GithubPage](http://chernoslava.github.io/russian-travel/)
 
 To run locally, you need to run the command on the local computer:
-- `git clone https://github.com/ChernoSlava/russian-travel ` - To copy the project to a local PC over https;
+- `git clone https://github.com/ChernoSlava/russian-travel` - To copy the project to a local PC over https;
 
 After that, you can work through the dev server or double-click on index.html this project.
 ------
